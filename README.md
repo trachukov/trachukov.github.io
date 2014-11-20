@@ -5,3 +5,4 @@
 
 #Read Late:
 * Check out the [GitHub help site](https://help.github.com/) or [GitHub Guides](https://guides.github.com/) to learn more about contributing to open source.
+* Use [embedded gists](https://github.com/blog/122-embedded-gists) to add code snippets to your blog.
