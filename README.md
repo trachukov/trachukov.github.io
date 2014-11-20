@@ -4,4 +4,4 @@
 * Learn how to create [custom 404 pages](https://help.github.com/articles/custom-404-pages/), use submodules, and [learn more about GitHub Pages](https://help.github.com/categories/github-pages-basics/).
 
 #Read Late:
-*Check out the [GitHub help site](https://help.github.com/) or [GitHub Guides](https://guides.github.com/) to learn more about contributing to open source.
+* Check out the [GitHub help site](https://help.github.com/) or [GitHub Guides](https://guides.github.com/) to learn more about contributing to open source.
